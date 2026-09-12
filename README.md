@@ -235,3 +235,6 @@ This repository serves as the official landing page for SeaTools. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of SeaTools today!**
+
+---
+**Last updated:** 2026-09-12 07:49:59 UTC
