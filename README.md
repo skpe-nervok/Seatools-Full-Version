@@ -237,4 +237,4 @@ This repository serves as the official landing page for SeaTools. The software i
 **Get the most recent version of SeaTools today!**
 
 ---
-**Last updated:** 2026-09-19 17:07:49 UTC
+**Last updated:** 2026-09-19 20:26:33 UTC
